@@ -1,0 +1,44 @@
+{
+  "researcher": "GothicShanon89238",
+  "immunefiProfile": "https://immunefi.com/profile/GothicShanon89238/",
+  "rank": 4,
+  "lastUpdated": "2026-03-22",
+  "findings": [
+    {
+      "id": 1,
+      "title": "[Finding Title]",
+      "protocol": "[Protocol Name]",
+      "dateIdentified": "YYYY-MM-DD",
+      "dateSubmitted": "YYYY-MM-DD",
+      "severity": "Critical",
+      "status": "Pending",
+      "category": "Smart Contract",
+      "description": "Detailed description of the finding",
+      "impact": "Detailed impact analysis",
+      "proofLinks": [
+        "Link to evidence",
+        "Transaction hash",
+        "Code reference"
+      ],
+      "bountyAmount": null,
+      "bountyStatus": "Not received"
+    }
+  ],
+  "statistics": {
+    "totalFindings": 0,
+    "bySeverity": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "byStatus": {
+      "pending": 0,
+      "underReview": 0,
+      "resolved": 0,
+      "ignored": 0
+    },
+    "totalBountyEarned": 0,
+    "totalBountyPending": 0
+  }
+}
