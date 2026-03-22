@@ -1,5 +1,55 @@
 # GothicShanon89238 - Immunefi Security Research
 
+---
+
+## ⚠️ THE UNTOLD STORY
+
+Even after hitting Rank #4 on @immunefi leaderboard...  
+
+**I've received ZERO dollars. Not a single fund, not one payout.**  
+
+**Submitted**: 2 High + 14 Critical reports.  
+
+**Still** – ek bhi rupee nahi mila.  
+
+### The Critical Find
+
+Bug hunting life was going okay... until this one massive find.
+
+**Found a Critical vuln that exposed $1B+ in on-chain assets.**  
+
+Any attacker could drain accounts directly – no special perms needed.  
+
+Reported responsibly via Immunefi.  
+
+Team understood, fixed it on mainnet upgrade fast. Severity clear tha unko.
+
+### The Disappointment
+
+Then silence. Months of nothing. No updates, no discussion.  
+
+Finally offered: just **$50K**.  
+
+Program max for Critical: **$500K**.  
+
+Disputed – back to ghosting. No explanation, no negotiation.
+
+**Crystal clear**: Not even the $50K paid. **ZERO total from this bug.**  
+
+Rank #4 hu, leaderboard pe earnings dikhte hain... lekin reality? **16 reports (2 High, 14 Critical) ke bawajood abhi tak ek single payout nahi mila.**  
+
+This is after saving **$1B+**.
+
+### The Commitment
+
+**Rank #4 whitehat. Saved billions. 14 Criticals + 2 Highs reported. Zero money.**
+
+Can't force pay, but won't stay silent.  
+
+**10% of ALL future bounties dedicate karunga to keep this story alive – until fair payout.**
+
+---
+
 > **Documentation of Security Research Work and Findings on Immunefi Platform**
 
 ## Profile Overview
