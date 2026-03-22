@@ -70,10 +70,10 @@ This repository documents comprehensive security research, vulnerability finding
 
 - **Total Findings**: [To be updated based on your work]
 - **Severity Levels**:
-  - Critical: [Count]
-  - High: [Count]
-  - Medium: [Count]
-  - Low: [Count]
+  - Critical: 14
+  - High: 2
+  - Medium: 0
+  - Low: 0
 
 ## Repository Structure
 
